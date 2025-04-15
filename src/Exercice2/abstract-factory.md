@@ -27,22 +27,25 @@ Vous pouvez vous baser sur les règles métier suivantes :
 ### Règles métier
 
 #### Expédition par voie terrestre
-| Règle | Tarif |
-|:--|--:|
-| Tarif de base | 10 € |
-| Coût par km | 0,5 € |
-| Coût par kg | 1 € |
+
+| Règle         | Tarif |
+| :------------ | ----: |
+| Tarif de base |  10 € |
+| Coût par km   | 0,5 € |
+| Coût par kg   |   1 € |
 
 #### Expédition par voie aérienne
-| Règle | Tarif |
-|:--|--:|
-| Tarif de base | 50 € |
-| Coût par km | 2 € |
-| Coût par kg | 3 € |
+
+| Règle         | Tarif |
+| :------------ | ----: |
+| Tarif de base |  50 € |
+| Coût par km   |   2 € |
+| Coût par kg   |   3 € |
 
 #### Transport maritime
-| Règle | Tarif |
-|:--|--:|
-| Tarif de base | 30 € |
-| Coût par km | 0,3 € |
-| Coût par kg | 0,5 € |
+
+| Règle         | Tarif |
+| :------------ | ----: |
+| Tarif de base |  30 € |
+| Coût par km   | 0,3 € |
+| Coût par kg   | 0,5 € |
